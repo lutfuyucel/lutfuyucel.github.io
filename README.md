@@ -13,4 +13,4 @@ Ubuntu-TR Sudo Portal v0.3
 - Tam uyumlu Markdown metin düzenleyicisi içerir.
 - En temel yapı oluşturulup özellikler ayrı ayrı olarak tanımlanmıştır. Yeni özellik ekleyip varolan özellikleri çıkarmak oldukça kolaydır.
 - Tema yapısı içerir.
-- Sayfa yapısı bozulmadan görünüm değiştirilebilir.
+- Sayfa yapısı bozulmadan görünüm değiştirilebilir(burası çok önemli).
